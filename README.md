@@ -44,9 +44,14 @@
 
 > | Date | Content | Study(On / Offline) | Assignment |
 > | --- | --- | --- | --- |
-> | 2023-12-17 | CS231n : Lecture 1 <br> Pytorch Tutorial : 파이토치(PyTorch) 시작하기 | - | - |
-> | 2023-12-23 | CS231n : Lecture 2 <br> Pytorch Tutorial : Introduction to PyTorch on YouTube | - | - |
-> | 2024-01-07 | CS231n : Lecture 3 <br> Pytorch Tutorial : 이미지 / 비디오 | - | - |
+> | 2023-12-17 | CS231n : Lecture 1. Introduction to Convolutional Neural Networks for Visual Recognition <br> Pytorch Tutorial : 파이토치(PyTorch) 시작하기 | Lecture 1. Review | - |
+> | 2023-12-23 | CS231n : Lecture 2. Image Classification Pipeline <br> Pytorch Tutorial : Introduction to PyTorch on YouTube | Lecture 2. Review | - |
+> | 2024-01-07 | CS231n : Lecture 3. Loss Functions and Optimization | Lecture 3. Review | - |
+> | 2024-01-20 | CS231n : Lecture 4. Back Propagation and Neural Networks | Lecture 4. Review | - |
+> | 2024-02-04 | CS231n : Lecture 5. Convolutional Neural Networks | Lecture 5. Review | - |
+> | 2024-02-10 | CS231n : Lecture 6. Training Neural Networks 1 | Lecture 6. Review | - |
+> | 2024-02-18 | CS231n : Lecture 7. Training Neural Networks 2 | Lecture 7. Review | - |
+> | 2024-03-03 | CS231n : Lecture 8. Deep Learning Software <br> CS231n : Lecture 9. CNN Archtiectures | Lecture 8-9. Review | - |
 
 ### commit 
 > ```shell
