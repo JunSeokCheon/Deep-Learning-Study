@@ -5,7 +5,7 @@
 ---
 
 > ### Deep-Learning Basic Study
-> Deep-Learning 대표적인 라이브러리인 Pytorch 공식 문서와 cs231n 강의 학습
+> Deep-Learning 대표적인 라이브러리인 Pytorch 공식 문서와 cs231n 강의 학습 스터디
 
 <br>
 
